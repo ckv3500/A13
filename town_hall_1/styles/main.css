@@ -149,6 +149,7 @@ section blockquote{
 section ul {
     padding-left: 1.25em;
     padding-bottom: .25em;
+    list-style-type: circle;	
 }
 
 section li {
